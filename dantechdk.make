@@ -33,6 +33,9 @@ projects[media][version] = 2.0-unstable7
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 1.0-beta3
 
+projects[menu_block][subdir] = contrib
+projects[menu_block][version] = 2.3
+
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta4
 
