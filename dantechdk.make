@@ -37,7 +37,7 @@ projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
 
 projects[pdf_reader][subdir] = contrib
-projects[pdf_reader][version] = 1.0-rc
+projects[pdf_reader][version] = 1.0-rc4
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
