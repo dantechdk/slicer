@@ -4,7 +4,7 @@
 /* Blue  #049DBF */
 /* Light green #C0D904 */
 
-h1#page-title {
+body > #page h1#page-title {
   color: #84BF04; !important }
 
 #zone-branding-wrapper {
