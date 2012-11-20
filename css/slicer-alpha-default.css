@@ -1,5 +1,15 @@
 /* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
 
+/* Dark Green #84BF04 */
+/* Blue  #049DBF */
+/* Light green #C0D904 */
+
+h1.title {
+  color: #84BF04; }
+
+#zone-branding-wrapper {
+  border-top: 5px solid #C0D904; }
+
 /**
  * Menu footer navigation
  */
