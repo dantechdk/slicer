@@ -26,8 +26,8 @@ body > #page #zone-branding-wrapper {
 .block-menu-menu-footer-navigation {
   width: auto; }
 
-.section-footer .nolink {
-  font-weight: bold;
+.section-footer ul.menu span.nolink {
+  font-weight: bold !important;
 }
 
 .section-footer ul.menu,
