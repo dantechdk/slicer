@@ -52,6 +52,9 @@ projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
+projects[special_menu_items][subdir] = contrib
+projects[special_menu_items][version] = 2.0
+
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta5
 
