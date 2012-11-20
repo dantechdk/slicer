@@ -1,5 +1,5 @@
 name = 'Slicer'
-description = 'Default theme for the Dantect DK. This is an <a href="http://drupal.org/project/navin">Navin</a> sub-theme.'
+description = 'Default theme for the Dantect DK. This is a <a href="http://drupal.org/project/navin">Navin</a> sub-theme which is based on <a href="http://drupal.org/project/omega">Omega</a>.'
 core = '7.x'
 engine = 'phptemplate'
 screenshot = 'screenshot.png'
@@ -362,10 +362,4 @@ settings[alpha_region_footer_bottom_columns] = '24'
 settings[alpha_region_footer_bottom_suffix] = ''
 settings[alpha_region_footer_bottom_weight] = '4'
 settings[alpha_region_footer_bottom_css] = ''
-
-; Information added by drupal.org packaging script on 2012-05-03
-version = "7.x-1.0-beta2"
-core = "7.x"
-project = "navin"
-datestamp = "1336089362"
 
