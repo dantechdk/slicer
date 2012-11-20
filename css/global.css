@@ -9,7 +9,7 @@
 body > #page h1#page-title {
   color: #84BF04; !important }
 
-#zone-branding-wrapper {
+body > #page #zone-branding-wrapper {
   border-top: 5px solid #C0D904; }
 
 /**
