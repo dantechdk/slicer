@@ -15,6 +15,13 @@ projects[enterprise_rotator][version] = 1.0-rc1
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
+projects[entity_view_mode][subdir] = contrib
+projects[entity_view_mode][version] = 1.0-beta3
+
+projects[facetapi][subdir] = contrib
+projects[facetapi][version] = 1.2
+projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
+
 projects[features][subdir] = contrib
 projects[features][version] = 1.0
 
@@ -52,11 +59,26 @@ projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
+projects[search_api][subdir] = contrib
+projects[search_api][version] = 1.3
+
+projects[search_api_db][subdir] = contrib
+projects[search_api_db][version] = 1.0-beta4
+
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta5
+
+projects[taxonomy_menu][subdir] = contrib
+projects[taxonomy_menu][version] = 1.4
+
+projects[taxonomy_display][subdir] = contrib
+projects[taxonomy_display][version] = 1.1
+
+projects[title][subdir] = contrib
+projects[title][version] = 1.x-dev
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.4
