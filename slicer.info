@@ -5,6 +5,13 @@ engine = 'phptemplate'
 screenshot = 'screenshot.png'
 base theme = 'navin'
 
+; OPTIONAL STYLESHEETS
+
+css[global.css][name] = 'Custom global styles'
+css[global.css][description] = 'This file holds all the globally active custom CSS of the theme'
+css[global.css][options][weight] = '10'
+settings[alpha_css][global.css] = 'global.css'
+
 ; Enable Navin's CSS files in this theme.
 settings[alpha_css][navin-base.css] = 'navin-base.css'
 settings[alpha_css][navin-font.css] = 'navin-font.css'
@@ -56,7 +63,7 @@ settings[alpha_primary_alpha_default] = 'normal'
 settings[alpha_responsive] = '1'
 settings[alpha_layouts_alpha_fluid_primary] = 'normal'
 settings[alpha_layouts_alpha_fluid_normal_responsive] = '0'
-settings[alpha_layouts_alpha_fluid_normal_media] = 'all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)'
+settings[alpha_layouts_alpha_fluid_normal_media] = 'all and (min-width: 740px) and (min-bdevice-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)'
 settings[alpha_layouts_alpha_default_primary] = 'normal'
 settings[alpha_layouts_alpha_default_fluid_responsive] = '0'
 settings[alpha_layouts_alpha_default_fluid_media] = 'all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)'
