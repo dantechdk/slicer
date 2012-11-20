@@ -5,7 +5,7 @@
 /* Light green #C0D904 */
 
 h1.title {
-  color: #84BF04; }
+  color: #84BF04; !important }
 
 #zone-branding-wrapper {
   border-top: 5px solid #C0D904; }
