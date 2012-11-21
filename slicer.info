@@ -5,8 +5,6 @@ engine = 'phptemplate'
 screenshot = 'screenshot.png'
 base theme = 'navin'
 
-scripts[] = js/slicer.js
-
 ; OPTIONAL STYLESHEETS
 
 css[global.css][name] = 'Custom global styles'
