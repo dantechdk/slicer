@@ -23,6 +23,9 @@ body > #page #zone-branding-wrapper {
 #region-footer-top {
   padding: 2em; }
 
+#region-menu nav > ul.menu > li > a {
+  text-shadow: none !important; }
+
 .block-menu-menu-footer-navigation {
   width: auto; }
 
