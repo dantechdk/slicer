@@ -1,6 +1,7 @@
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
 
+@import url(//fonts.googleapis.com/css?family=Voces);
 
 /* Dark Green #84BF04 */
 /* Blue  #049DBF */
@@ -11,6 +12,9 @@ body > #page h1#page-title {
 
 body > #page #zone-branding-wrapper {
   border-top: 5px solid #C0D904 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Voces', sans-serif !important; }
 
 /**
  * Menu footer navigation
